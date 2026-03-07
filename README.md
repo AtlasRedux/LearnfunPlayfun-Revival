@@ -5,6 +5,8 @@ automatically playing NES games.  The AI watches a human-recorded replay to
 learn what "progress" looks like, then plays the game itself using a
 distributed search over emulator states.
 
+<img width="646" height="699" alt="Skjermbilde 2026-03-07 223627" src="https://github.com/user-attachments/assets/f136bd38-baf1-4810-b322-d3cf461d8553" />
+
 Originally built for Linux with SDL, GCC, and hand-rolled Makefiles, this
 revival targets **Windows 10/11 x64** with MSVC, CMake, and vcpkg.  SDL and
 SDL_net have been replaced by native Winsock2 networking.
