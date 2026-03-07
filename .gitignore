@@ -1,0 +1,26 @@
+# Build output
+tasbot/build/
+
+# IDE
+.vs/
+*.user
+*.suo
+*.ncb
+*.sdf
+*.opensdf
+
+# vcpkg installed packages (fetched at build time)
+vcpkg_installed/
+
+# Game data (user-supplied)
+*.nes
+*.fm2
+*.objectives
+*.motifs
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
