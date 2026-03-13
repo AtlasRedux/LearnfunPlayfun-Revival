@@ -14,6 +14,9 @@ SDL_net have been replaced by native Winsock2 networking.
 > Orderings and Time Travel"** (tom7, SIGBOVIK 2013).
 > Original source: <http://tom7.org/mario/>
 
+
+<img width="641" height="717" alt="Skjermbilde 2026-03-13 171953" src="https://github.com/user-attachments/assets/a08726eb-be74-43d6-bcbc-2f559ab56f2d" />
+
 ---
 
 ## Architecture
