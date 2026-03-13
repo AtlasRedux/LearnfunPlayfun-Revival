@@ -134,8 +134,8 @@ output.
 Place FCEUX in a `FCEUX\` subfolder next to the executables.  The GUI
 auto-detects `fceux64.exe` or `fceux.exe` and enables the
 **Watch Replay (FCEUX)** button.  This opens the current
-`*-playfun-futures-progress.fm2` in FCEUX so you can watch the AI play
-in real time.  If no FCEUX is found the button is greyed out.
+`*-playfun-futures-progress.fm2` in FCEUX so you can watch the current
+progress.  If no FCEUX is found the button is greyed out.
 
 ```
 build/Release/
