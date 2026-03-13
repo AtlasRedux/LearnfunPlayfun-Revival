@@ -15,7 +15,7 @@ SDL_net have been replaced by native Winsock2 networking.
 > Original source: <http://tom7.org/mario/>
 
 
-<img width="320" height="308" alt="Skjermbilde 2026-03-13 171953" src="https://github.com/user-attachments/assets/a08726eb-be74-43d6-bcbc-2f559ab56f2d" />
+<img width="320" height="358" alt="Skjermbilde 2026-03-13 171953" src="https://github.com/user-attachments/assets/a08726eb-be74-43d6-bcbc-2f559ab56f2d" />
 
 ---
 
